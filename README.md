@@ -1,10 +1,12 @@
 <div align="center">
 
-# 🔒 НЕЙЛ
+![FSociety Banner](https://i.imgur.com/j693t4I.gif)
+
+# 🎭 FSOCIETY | НЕЙЛ
 
 **Кибербезопасность • Пентест • Реверс-инжиниринг • Разработка**
 
-![Profile Views](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=000000)
+*"Мы - FSociety. Мы - анонимы. Мы - легион."*
 
 </div>
 
@@ -93,17 +95,11 @@
 
 <div align="center">
 
-<a href="https://github.com/quantkill">
-  <img src="https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="GitHub Stats"/>
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff)
 
-<a href="https://github.com/quantkill">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
-</a>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
-<a href="https://github.com/quantkill">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak Stats"/>
-</a>
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)
 
 </div>
 
@@ -162,10 +158,10 @@
 
 ---
 
-**© 2026 Neil**
+**© 2026 Neil | FSociety**
+
+*"Hello, friend." - Mr. Robot*
 
 *Вся коммуникация строго через Telegram*
-
-![Profile Visitors](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=000000)
 
 </div>
