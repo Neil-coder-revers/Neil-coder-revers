@@ -1,16 +1,21 @@
-## Hi there 👋
+# NeiNEXSUS
 
-<!--
-**Neil-coder-revers/Neil-coder-revers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**💀 Кибербезопасность | Low-level | Реверс-инжиниринг**  
+**🔧 TG: @quantkill**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Технологии
+
+**Low-level:** `C++` `Rust` `ASM` `C`  
+**Кибербезопасность:** `IDA Pro` `Ghidra` `Radare2` `Wireshark`  
+**Языки:** `Java` `Python` `JavaScript`  
+**Инструменты:** `Git` `Linux` `Docker` `Vim`
+
+---
+
+## 📂 Мои проекты
+
+- [FILE-SHREDDER](https://github.com/Neil-coder-revers/FILE-SHREDDER)
+- [Scaner-system](https://github.com/Neil-coder-revers/Scaner-system)
+- [Soft-Reverse-Engineer](https://github.com/Neil-coder-revers/Soft-Reverse-Engineer)
