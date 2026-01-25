@@ -1,28 +1,32 @@
 <div align="center">
 
-# 🔒 SECURITY RESEARCHER & PENTESTER
+![fsociety banner](https://camo.githubusercontent.com/4e3a5b8d4b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5/68747470733a2f2f692e696d6775722e636f6d2f6a3639337434492e676966)
 
-![Profile Views](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=0e76a8)
+# 🎭 FSOCIETY | НЕЙЛ
 
-*Specialized in Cybersecurity, Penetration Testing, Reverse Engineering & Development*
+**Кибербезопасность • Пентест • Реверс-инжиниринг • Разработка**
+
+![Profile Views](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=ff0000)
+
+*"Мы - FSociety. Мы - анонимы. Мы - легион."*
 
 </div>
 
 ---
 
-## 🎯 SPECIALIZATION
+## 🎯 СПЕЦИАЛИЗАЦИЯ
 
 <div align="center">
 
-**🔓 PENETRATION TESTING** | **🔍 REVERSE ENGINEERING** | **🛡️ SECURITY AUDIT** | **💻 CUSTOM DEVELOPMENT** | **🔬 MALWARE ANALYSIS**
+**🔓 ПЕНЕТРАЦИОННЫЙ ТЕСТИНГ** | **🔍 РЕВЕРС-ИНЖИНИРИНГ** | **🛡️ АУДИТ БЕЗОПАСНОСТИ** | **💻 РАЗРАБОТКА ИНСТРУМЕНТОВ** | **🔬 АНАЛИЗ ВРЕДОНОСНОГО ПО**
 
 </div>
 
 ---
 
-## 💻 TECHNICAL SKILLS
+## 💻 ТЕХНИЧЕСКИЕ НАВЫКИ
 
-### 🔧 Programming Languages
+### 🔧 Языки программирования
 <div align="center">
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -34,7 +38,7 @@
 
 </div>
 
-### 🌐 Frontend Development
+### 🌐 Frontend разработка
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,7 +47,7 @@
 
 </div>
 
-### 🔨 Security Tools & Frameworks
+### 🔨 Инструменты безопасности и фреймворки
 <div align="center">
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
@@ -57,25 +61,25 @@
 
 ---
 
-## 📊 SKILLS PROFICIENCY
+## 📊 УРОВЕНЬ НАВЫКОВ
 
 <div align="center">
 
-| Skill | Level |
-|-------|-------|
-| ![C++](https://img.shields.io/badge/C%2B%2B-95%25-brightgreen?style=flat-square) | Expert |
-| ![Rust](https://img.shields.io/badge/Rust-85%25-green?style=flat-square) | Advanced |
-| ![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=flat-square) | Expert |
-| ![Assembly](https://img.shields.io/badge/Assembly-80%25-green?style=flat-square) | Advanced |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-green?style=flat-square) | Advanced |
-| ![Java](https://img.shields.io/badge/Java-75%25-yellowgreen?style=flat-square) | Intermediate |
-| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-88%25-green?style=flat-square) | Advanced |
+| Навык | Уровень |
+|-------|--------|
+| ![C++](https://img.shields.io/badge/C%2B%2B-95%25-brightgreen?style=flat-square) | Эксперт |
+| ![Rust](https://img.shields.io/badge/Rust-85%25-green?style=flat-square) | Продвинутый |
+| ![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=flat-square) | Эксперт |
+| ![Assembly](https://img.shields.io/badge/Assembly-80%25-green?style=flat-square) | Продвинутый |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-green?style=flat-square) | Продвинутый |
+| ![Java](https://img.shields.io/badge/Java-75%25-yellowgreen?style=flat-square) | Средний |
+| ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-88%25-green?style=flat-square) | Продвинутый |
 
 </div>
 
 ---
 
-## 🛠️ DEVELOPMENT & SECURITY ENVIRONMENT
+## 🛠️ СРЕДА РАЗРАБОТКИ И БЕЗОПАСНОСТИ
 
 <div align="center">
 
@@ -89,60 +93,60 @@
 
 ---
 
-## 📈 GITHUB STATISTICS
+## 📈 СТАТИСТИКА GITHUB
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e76a8&icon_color=0e76a8&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=0e76a8&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=0D1117&stroke=0e76a8&ring=0e76a8&fire=ff6b6b&currStreakLabel=c9d1d9)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=000000&stroke=ff0000&ring=ff0000&fire=ff6b6b&currStreakLabel=ffffff)
 
 </div>
 
 ---
 
-## 💼 COMMERCIAL SERVICES
+## 💼 КОММЕРЧЕСКИЕ УСЛУГИ
 
 <div align="center">
 
-### 🔒 Security Services
-- **Penetration Testing** - Web, Mobile, Network, API Security Assessment
-- **Security Audit** - Code Review, Architecture Analysis, Vulnerability Assessment  
-- **Reverse Engineering** - Binary Analysis, Protocol Reversing, Malware Analysis
-- **Custom Tools Development** - Security Utilities, Automation Scripts, Testing Frameworks
-- **Security Consulting** - Architecture Design, Security Strategy, Risk Assessment
+### 🔒 Услуги по безопасности
+- **Пентест** - Тестирование веб-приложений, мобильных приложений, сетей, API
+- **Аудит безопасности** - Анализ кода, архитектуры, оценка уязвимостей  
+- **Реверс-инжиниринг** - Анализ бинарников, реверс протоколов, анализ вредоноса
+- **Разработка инструментов** - Утилиты безопасности, автоматизация, фреймворки
+- **Консалтинг** - Проектирование архитектуры, стратегия безопасности, оценка рисков
 
-### 💻 Development Services
-- **Custom Software Development** - C++, Rust, Python, JavaScript Applications
-- **Security Tools Development** - Custom pentesting tools, analysis utilities
-- **Web Development** - Full-stack applications with security focus
-- **API Development** - Secure RESTful APIs and microservices
+### 💻 Услуги разработки
+- **Кастомная разработка** - Приложения на C++, Rust, Python, JavaScript
+- **Разработка инструментов безопасности** - Кастомные пентест-инструменты, утилиты анализа
+- **Веб-разработка** - Full-stack приложения с фокусом на безопасность
+- **Разработка API** - Безопасные RESTful API и микросервисы
 
 </div>
 
 ---
 
-## 📞 CONTACT & BUSINESS
+## 📞 КОНТАКТЫ И БИЗНЕС
 
 <div align="center">
 
-### 🚀 Available for:
-- **Commercial Projects** - Security assessments, custom development
-- **Security Audits** - Comprehensive security evaluations  
-- **Custom Development** - Tailored security tools and applications
-- **Consulting** - Security architecture and strategy consulting
+### 🚀 Доступно для:
+- **Коммерческих проектов** - Аудиты безопасности, кастомная разработка
+- **Аудитов безопасности** - Комплексная оценка безопасности  
+- **Кастомной разработки** - Специализированные инструменты безопасности
+- **Консалтинга** - Архитектура безопасности и стратегия
 
-### ❌ Not Available for:
-- Free help or mentorship
-- Startup ideas evaluation
-- Personal projects assistance
+### ❌ Недоступно для:
+- Бесплатной помощи или менторства
+- Оценки стартап-идей
+- Помощи с личными проектами
 
-### 📩 Primary Contact:
+### 📩 Основной контакт:
 **Telegram: @quantkill**
 
-*All business inquiries and project discussions via Telegram only*
+*Все деловые запросы и обсуждения проектов только через Telegram*
 
 </div>
 
@@ -150,16 +154,18 @@
 
 <div align="center">
 
-## 🔗 CONNECT
+## 🔗 СВЯЗЬ
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/quantkill)
 
 ---
 
-**© 2026 Neil | Security Researcher & Pentester**
+**© 2026 Neil | FSociety**
 
-*All communication strictly via Telegram*
+*"Hello, friend." - Mr. Robot*
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=0e76a8)
+*Вся коммуникация строго через Telegram*
+
+![Profile Visitors](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=ff0000)
 
 </div>
