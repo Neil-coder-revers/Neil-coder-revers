@@ -1,14 +1,10 @@
 <div align="center">
 
-![fsociety banner](https://camo.githubusercontent.com/4e3a5b8d4b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5b5/68747470733a2f2f692e696d6775722e636f6d2f6a3639337434492e676966)
-
-# 🎭 FSOCIETY | НЕЙЛ
+# 🔒 НЕЙЛ
 
 **Кибербезопасность • Пентест • Реверс-инжиниринг • Разработка**
 
-![Profile Views](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=ff0000)
-
-*"Мы - FSociety. Мы - анонимы. Мы - легион."*
+![Profile Views](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=000000)
 
 </div>
 
@@ -97,11 +93,17 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&icon_color=ff0000&text_color=ffffff)
+<a href="https://github.com/quantkill">
+  <img src="https://github-readme-stats.vercel.app/api?username=quantkill&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=ffffff" alt="GitHub Stats"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ff0000&text_color=ffffff)
+<a href="https://github.com/quantkill">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantkill&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff" alt="Top Languages"/>
+</a>
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=000000&stroke=ff0000&ring=ff0000&fire=ff6b6b&currStreakLabel=ffffff)
+<a href="https://github.com/quantkill">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=quantkill&theme=dark&hide_border=true&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak Stats"/>
+</a>
 
 </div>
 
@@ -160,12 +162,10 @@
 
 ---
 
-**© 2026 Neil | FSociety**
-
-*"Hello, friend." - Mr. Robot*
+**© 2026 Neil**
 
 *Вся коммуникация строго через Telegram*
 
-![Profile Visitors](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=ff0000)
+![Profile Visitors](https://komarev.com/ghpvc/?username=quantkill&style=for-the-badge&color=000000)
 
 </div>
