@@ -10,7 +10,6 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-@quantkill-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/quantkill)
 &nbsp;
-[![Views](https://komarev.com/ghpvc/?username=Neil-coder-revers&style=for-the-badge&color=0d1117&label=VIEWS)](https://github.com/Neil-coder-revers)
 
 </div>
 
